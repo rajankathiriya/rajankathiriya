@@ -29,8 +29,11 @@ I’m looking to collaborate on **OpenSource Projects**
 ## 📊 My Github Stats
 
 <br/>
-<a href="https://github.com/rajankathiriya/github-readme-stats"><img alt="Rajan kathiriya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajankathiriya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/rajankathiriya/github-readme-stats"><img alt="Rajan kathiriya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajankathiriya&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<p align="center" >
+<a href="https://github.com/rajankathiriya/github-readme-stats"><img alt="Rajan kathiriya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajankathiriya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><br/>
+    <a href="https://github.com/rajankathiriya/github-readme-stats"><img alt="Rajan kathiriya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajankathiriya&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p>
+
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -41,8 +44,8 @@ I’m looking to collaborate on **OpenSource Projects**
 <a href="https://github.com/rajankathiriya/github-readme-activity-graph"><img alt="Rajan kathiriya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rajankathiriya&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/https://twitter.com/kathiriyarajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/kathiriyarajan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rajan-kathiriya-53601523b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajan-kathiriya-53601523b/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/mr_rajan_kathiriya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mr_rajan_kathiriya/" height="30" width="40" /></a>
