@@ -6,7 +6,8 @@
 
 I’m looking to collaborate on **OpenSource Projects** 
 - 👨‍💻 All of myprojects are available at **[My Portfolio](https://rajanportfolio.netlify.app/)** 
-- 📫 How to reach me **rajankathiriya99@gmail.com** 
+- 📫 How to reach me **rajankathiriya99@gmail.com**
+- 📄 <a href="/MY RESUME.pdf" download >My Resume.. </a> 
 - 🚀 Languages and Tools:
 
 <p align="left">
