@@ -75,3 +75,6 @@
 <!--     <img src="https://komarev.com/ghpvc/?username=rajankathiriya"> -->
     <img src="https://profile-counter.glitch.me/rajankathiriya/count.svg" /
 </a>
+  <a href="https://github.com/rajankathiriya?tab=followers"><img
+    src="https://img.shields.io/github/followers/rajankathiriya?label=Followers&style=social" alt="GitHub Badge"></a>
+
