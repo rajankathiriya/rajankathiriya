@@ -43,14 +43,19 @@ I’m looking to collaborate on **OpenSource Projects**
 <br/>
 
 <a href="https://github.com/rajankathiriya/github-readme-activity-graph"><img alt="Rajan kathiriya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rajankathiriya&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+<!-- 
 <br/>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/https://twitter.com/kathiriyarajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/kathiriyarajan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rajan-kathiriya-53601523b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajan-kathiriya-53601523b/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/mr_rajan_kathiriya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mr_rajan_kathiriya/" height="30" width="40" /></a>
-</p>
+</p> -->
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mr_rajan_kathiriya/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajan-kathiriya-53601523b/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/kathiriyarajan) 
+ >
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
