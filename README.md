@@ -14,7 +14,7 @@
  
 - 📫 How to reach me **rajankathiriya99@gmail.com**
 
-- 📄 <a href="/MY RESUME.pdf" download >My Resume.. </a> 
+- 📄 <a href="/Full Stack Development.pdf" download >My Resume.. </a> 
 
  <hr>
 
