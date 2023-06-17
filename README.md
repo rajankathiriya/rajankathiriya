@@ -14,7 +14,7 @@
  
 - 📫 How to reach me **rajankathiriya99@gmail.com**
 
-- 📄 <a href="https://drive.google.com/file/d/1Xakynq2sF3eiTXBlPnVgus_fVmhS5R54/view?usp=sharing" download >My Resume.. </a> 
+- 📄 <a href="https://drive.google.com/file/d/1kJRU5KkFi8Rnkm8YiI3FdlnkIWP0iTqI/view?usp=sharing" download >My Resume.. </a> 
 
  <hr>
 
