@@ -14,7 +14,7 @@
  
 - 📫 How to reach me **rajankathiriya99@gmail.com**
 
-- 📄 <a href="Fresher but i have completed full stack website and many others project" download >My Resume.. </a> 
+- 📄 <a href="https://drive.google.com/file/d/1vq7aXgluUx6Oqv_agQ5zizB2zv14DZPP/view?usp=drive_link" download >My Resume.. </a> 
 
  <hr>
 
